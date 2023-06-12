@@ -23,7 +23,7 @@ The Recipe App is a mobile application that allows users to search for, save, an
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/recipe-app.git](https://github.com/basirkhan12/TestyBites.git)
+   git clone https://github.com/basirkhan12/TestyBites.git
    
 2. Navigate to the project directory:
 
