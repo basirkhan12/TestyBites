@@ -50,4 +50,4 @@ This project is licensed under the MIT License.
 Contact
 For any inquiries or further information, please contact:
 
-Your Name: basiru004@gmail.com
+contact me: basiru004@gmail.com
